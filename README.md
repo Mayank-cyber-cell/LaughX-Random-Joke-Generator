@@ -34,7 +34,7 @@ git clone https://github.com/Mayank-cyber-cell/LaughX-Random-Joke-Generator
 cd LaughX-Random-Joke-Generator
 open index.html
 
-📌 API Reference
+##📌 API Reference
 We're using the JokeAPI:
 
 
@@ -42,4 +42,4 @@ GET https://v2.jokeapi.dev/joke/Any?blacklistFlags=religious,political,racist
 You can filter jokes by category or remove sensitive content using flags.
 More details: JokeAPI Documentation
 
-🧑‍💻 Made With ❤️ by Mayank Kumar Shah
+##🧑‍💻 Made With ❤️ by Mayank Kumar Shah
